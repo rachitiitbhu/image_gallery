@@ -28,11 +28,11 @@ body{
 }
 .pic{
 	border:1px solid #17626B;
-	width:30%;
+	width:29%;
 	height:auto;
 	float:left;
 	padding-bottom:0px;
-	margin:20px 20px 10px  20px;
+	margin:20px 17px 10px  17px;
 }
 
 .pic:hover{
@@ -45,7 +45,7 @@ body{
 	height:auto;
 }
 
-@media only screen and (max-width: 750px){
+@media only screen and (max-width: 850px){
 	.pic{
 		width:49%;
 		margin:5px 1.5px;
